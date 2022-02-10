@@ -1,7 +1,10 @@
 echo hi
 echo new line
 <<<<<<< HEAD
-echo made with beta branch
+<<<<<<< HEAD
+=======
+echo made with new branch
+>>>>>>> main
 =======
 echo made with new branch
 >>>>>>> main
